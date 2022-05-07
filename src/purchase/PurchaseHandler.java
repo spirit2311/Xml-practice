@@ -26,10 +26,6 @@ public class PurchaseHandler extends DefaultHandler {
             System.out.printf("Currency: %s%n", currency);
         }
 
-        if (qName.equalsIgnoreCase("price")) {
-            String currency = attributes.getValue(0);
-            System.out.printf("Currency: %s%n", currency);
-        }
     }
 
     @Override
