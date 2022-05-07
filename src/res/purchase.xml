@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<purchases>
+    <product id="001">
+        <name>Iphone</name>
+        <price currency="UAH">25000</price>
+        <quantity>1</quantity>
+    </product>
+    <product id="002">
+        <name>ElfBar</name>
+        <price currency="UAH">300</price>
+        <quantity>5</quantity>
+    </product>
+    <product id="003">
+        <name>IqosSteaks</name>
+        <price currency="UAH">68</price>
+        <quantity>10</quantity>
+    </product>
+</purchases>
