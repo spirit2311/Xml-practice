@@ -15,4 +15,9 @@
         <price currency="UAH">68</price>
         <quantity>10</quantity>
     </product>
+    <product id="004">
+        <name>Milka</name>
+        <price currency="UAH">91</price>
+        <quantity>2</quantity>
+    </product>
 </purchases>
